@@ -119,8 +119,7 @@ Contributions are welcome! Please fork the repo, make your changes, and create a
 
 
 
-## 📜 License
-This project is licensed under the MIT License.
+
 
 ## ⭐️ Show Your Support
 If you like this project, give it a ⭐️ on GitHub! Contributions and suggestions are always welcome.
